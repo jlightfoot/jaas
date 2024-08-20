@@ -11,6 +11,7 @@
     "connectErrorWithMsg": "Oops! Something went wrong and we couldn't connect to the class: {{msg}}",
     "kickTitle": "{{participantDisplayName}} disconnected you from the class",
     "micPermissionDeniedError": "You have not granted permission to use your microphone. You can still join the class but others won't hear you. Use the camera button in the address bar to fix this.",
+    "tokenAuthFailedWithReasons": "Sorry, you're not allowed to join the class with this link (NB, there's a unique link for each class). Possible reasons: {{reason}}",
     "tokenAuthFailed": "Check that you have the correct class time and that you're using the correct link. Links are unique to each class and aren't good until 15 minutes prior to class time.",
     "tokenAuthFailedTitle": "Access failed"
   },
