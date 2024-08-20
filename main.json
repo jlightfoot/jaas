@@ -1,0 +1,36 @@
+{
+  "blankPage": {
+    "meetingEnded": "class ended."
+  },
+  "connectingOverlay": {
+    "joiningRoom": "Connecting you to your class..."
+  },
+  "dialog": {
+    "cameraPermissionDeniedError": "You have not granted permission to use your camera. You can still join the class but others won't see you. Use the camera button in the address bar to fix this.",
+    "connectError": "Oops! Something went wrong and we couldn't connect to the class.",
+    "connectErrorWithMsg": "Oops! Something went wrong and we couldn't connect to the class: {{msg}}",
+    "kickTitle": "{{participantDisplayName}} disconnected you from the class",
+    "micPermissionDeniedError": "You have not granted permission to use your microphone. You can still join the class but others won't hear you. Use the camera button in the address bar to fix this.",
+    "tokenAuthFailed": "Check that you have the correct class time and that you're using the correct link. Links are unique to each class and aren't good until 15 minutes prior to class time.",
+    "tokenAuthFailedTitle": "Access failed"
+  },
+  "notify": {
+    "hostAskedUnmute": "The teacher would like you to speak",
+    "moderationInEffectTitle": "Your microphone is muted by the teacher",
+    "moderationInEffectVideoTitle": "Your camera is blocked by the teacher",
+    "suboptimalBrowserWarning": "We are afraid your class experience isn't going to be that great here. We are looking for ways to improve this, but until then please try using one of the <a href='{{recommendedBrowserPageLink}}' target='_blank'>fully supported browsers</a>."
+  },
+  "participantsPane": {
+    "headings": {
+      "participantsList": "Class participants ({{count}})"
+    }
+  },
+  "prejoin": {
+    "joinMeeting": "Join class",
+    "premeeting": "Pre class",
+    "showScreen": "Enable pre class screen"
+  },
+  "toolbar": {
+    "hangup": "Leave the class"
+  }
+}
