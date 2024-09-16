@@ -1,7 +1,7 @@
 {
   "backgroundColor": "#2f4f4f",
   "logoClickUrl": "https://ygo.bz",
-  "logoImageUrl": "https://images.squarespace-cdn.com/content/v1/5f2335e5a7ee9c7143fafdd1/b0efa6f7-6395-46a7-a322-93fa9da9b73a/watermark+%281%29.png",
+  "logoImageUrl": "https://raw.githubusercontent.com/jlightfoot/jaas/main/watermark.png",
   "premeetingBackground": "url(https://raw.githubusercontent.com/jlightfoot/jaas/main/logo-only-black.png)",
   "labels": {
     "en": "https://raw.githubusercontent.com/jlightfoot/jaas/main/main.json"
