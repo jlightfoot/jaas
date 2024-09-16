@@ -2,7 +2,7 @@
   "backgroundColor": "#2f4f4f",
   "logoClickUrl": "https://ygo.bz",
   "logoImageUrl": "https://images.squarespace-cdn.com/content/v1/5f2335e5a7ee9c7143fafdd1/b0efa6f7-6395-46a7-a322-93fa9da9b73a/watermark+%281%29.png",
-  "premeetingBackground": "url(https://images.squarespace-cdn.com/content/v1/5f2335e5a7ee9c7143fafdd1/5c46f6d4-7bdc-4eab-9e28-48fd1ba4c60c/logo-only-black.png)",
+  "premeetingBackground": "url(https://raw.githubusercontent.com/jlightfoot/jaas/main/logo-only-black.png)",
   "labels": {
     "en": "https://raw.githubusercontent.com/jlightfoot/jaas/main/main.json"
   }
